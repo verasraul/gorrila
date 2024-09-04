@@ -18,7 +18,6 @@ function App() {
     <div className="App">
       <h1>MY HEADER</h1>
       <>{ data }</>
-      {/* <Receipts /> */}
     </div>
   );
 };
